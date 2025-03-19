@@ -16,7 +16,7 @@ En el que les presentaré los proyectos que he elaborado.
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-![imagen1](/assets\img\aceleraciones2.png)
+![imagen1](/assets/img/aceleraciones2.png)
 
 ## Header 2
 
